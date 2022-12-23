@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/xiaozaa/web3cdn">
-    <img src="images/logo.png" alt="Logo" width="auto" height="80">
+  <a href="https://web3-cdn-example.vercel.app/">
+    LIVE demo
   </a>
 
   <h3 align="center">Catchon WEB3 CDN REACT LIVE DEMO</h3>
