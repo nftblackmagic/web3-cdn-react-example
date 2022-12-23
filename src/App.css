@@ -22,16 +22,60 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  gap: 5px;
+}
+
+.App-header button {
+  background-color: gainsboro;
+  border: none;
+  border-radius: 5px;
+  color: #282c34;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 1px solid gainsboro;
+}
+
+.App-header button:hover {
+  background-color: #282c34;
+  color: gainsboro;
+}
+
+.App-header h1 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+.App-header h3 {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
 }
 
 .App-link {
   color: #61dafb;
 }
 
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
