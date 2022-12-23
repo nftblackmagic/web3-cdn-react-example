@@ -33,6 +33,9 @@ function App() {
         <button function-name="mint">
           Mint
         </button>
+        <button function-name="mint" function-name-args-quantity="2" function-name-value-in-eth="0.000002">
+          Mint 2 with fixed settings
+        </button>
       </header>
     </div >
   );
