@@ -39,14 +39,14 @@
   <p align="center">
     An awesome no code solution for web3 development!
     <br />
-    <a href="https://github.com/xiaozaa/web3cdn"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nftblackmagic/web3cdn"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/xiaozaa/web3cdn">View Demo</a>
+    <a href="https://github.com/nftblackmagic/web3cdn">View Demo</a>
     ·
-    <a href="https://github.com/xiaozaa/web3cdn/issues">Report Bug</a>
+    <a href="https://github.com/nftblackmagic/web3cdn/issues">Report Bug</a>
     ·
-    <a href="https://github.com/xiaozaa/web3cdn/issues">Request Feature</a>
+    <a href="https://github.com/nftblackmagic/web3cdn/issues">Request Feature</a>
   </p>
 </div>
 
@@ -210,7 +210,7 @@ After click the button, a dialog will pop up for user to input.
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add multi-chain support
 
-See the [open issues](https://github.com/xiaozaa/web3cdn/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/nftblackmagic/web3cdn/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,7 +248,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@catchonlabs](https://twitter.com/catchonlabs) - info@catchonlabs.com
 
-Project Link: [https://github.com/xiaozaa/web3cdn](https://github.com/xiaozaa/web3cdn)
+Project Link: [https://github.com/nftblackmagic/web3cdn](https://github.com/nftblackmagic/web3cdn)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -274,16 +274,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/xiaozaa/web3cdn.svg?style=for-the-badge
-[contributors-url]: https://github.com/xiaozaa/web3cdn/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/xiaozaa/web3cdn.svg?style=for-the-badge
-[forks-url]: https://github.com/xiaozaa/web3cdn/network/members
-[stars-shield]: https://img.shields.io/github/stars/xiaozaa/web3cdn.svg?style=for-the-badge
-[stars-url]: https://github.com/xiaozaa/web3cdn/stargazers
-[issues-shield]: https://img.shields.io/github/issues/xiaozaa/web3cdn.svg?style=for-the-badge
-[issues-url]: https://github.com/xiaozaa/web3cdn/issues
-[license-shield]: https://img.shields.io/github/license/xiaozaa/web3cdn.svg?style=for-the-badge
-[license-url]: https://github.com/xiaozaa/web3cdn/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/nftblackmagic/web3cdn.svg?style=for-the-badge
+[contributors-url]: https://github.com/nftblackmagic/web3cdn/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/nftblackmagic/web3cdn.svg?style=for-the-badge
+[forks-url]: https://github.com/nftblackmagic/web3cdn/network/members
+[stars-shield]: https://img.shields.io/github/stars/nftblackmagic/web3cdn.svg?style=for-the-badge
+[stars-url]: https://github.com/nftblackmagic/web3cdn/stargazers
+[issues-shield]: https://img.shields.io/github/issues/nftblackmagic/web3cdn.svg?style=for-the-badge
+[issues-url]: https://github.com/nftblackmagic/web3cdn/issues
+[license-shield]: https://img.shields.io/github/license/nftblackmagic/web3cdn.svg?style=for-the-badge
+[license-url]: https://github.com/nftblackmagic/web3cdn/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
